@@ -3,12 +3,12 @@ from bs4 import BeautifulSoup
 import csv
 
 # will have to change this URL for each different pokemon type (bug, dragon, etc.)
-URL = 'https://www.serebii.net/attackdex-swsh/bug.shtml'
+URL = 'https://www.serebii.net/attackdex-swsh/water.shtml'
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, 'html.parser')
 
 # current URL pokemon type
-pokeType = 'Bug'
+pokeType = 'Water'
 
 content = soup.find(id='content')
 
@@ -24,7 +24,7 @@ for row in data:
 
         print(line)
 
-with open("moves.csv", "w", newline='', encoding='utf-8') as output:
+with open("moves.csv", "a+", newline='', encoding='utf-8') as output:
     w = csv.writer(output, delimiter=':')
     w.writerow(['name', 'PP', 'power', 'accuracy', 'description', 'type'])
     counter = 0

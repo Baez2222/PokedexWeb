@@ -32,3 +32,829 @@ Tail Glow:20:--:101:The user stares at flashing lights to focus its mind, drasti
 Twineedle:20:25:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Bug
 U-turn:20:70:100:After making its attack, the user rushes back to switch places with a party Pokémon in waiting.:Bug
 X-Scissor:15:80:100:The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.:Bug
+Assurance:10:60:100:If the target has already taken some damage in the same turn, this attack's power is doubled.:Dark
+Baddy Bad:15:80:95:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Beat Up:10:--:100:The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.:Dark
+Bite:25:60:100:The target is bitten with viciously sharp fangs. This may also make the target flinch.:Dark
+Black Hole Eclipse:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Black Hole Eclipse:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Brutal Swing:20:60:100:The user swings its body around violently to inflict damage on everything in its vicinity.:Dark
+Crunch:15:80:100:The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.:Dark
+Dark Pulse:15:80:100:The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.:Dark
+Dark Void:10:--:50:Opposing Pokémon are dragged into a world of total darkness that makes them sleep.:Dark
+Darkest Lariat:10:85:100:The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.:Dark
+Embargo:15:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Fake Tears:20:--:100:The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.:Dark
+False Surrender:10:80:101:The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.:Dark
+Feint Attack:20:60:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Fiery Wrath:10:90:100:The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.:Dark
+Flatter:15:--:100:Flattery is used to confuse the target. However, this also raises the target's Sp. Atk stat.:Dark
+Fling:10:--:100:The user flings its held item at the target to attack. This move's power and effects depend on the item.:Dark
+Foul Play:15:95:100:The user turns the target's power against it. The higher the target's Attack stat, the greater the damage it deals.:Dark
+G-Max One Blow:10:--:101:A Dark-type attack that Gigantamax Urshifu use. This single-strike move can ignore Max Guard.:Dark
+G-Max Snooze:10:--:101:A Dark-type attack that Gigantamax Grimmsnarl use. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn.:Dark
+Hone Claws:15:--:101:The user sharpens its claws to boost its Attack stat and accuracy.:Dark
+Hyperspace Fury:5:100:101:Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user's Defense stat falls.:Dark
+Jaw Lock:10:80:100:This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.:Dark
+Knock Off:20:65:100:The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.:Dark
+Lash Out:5:75:100:The user lashes out to vent its frustration toward the target. If its stats were lowered during the turn, the power of this move is doubled.:Dark
+Malicious Moonsault:1:180:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Max Darkness:10:--:101:This is a Dark-type attack Dynamax Pokémon use. This lowers the target's Sp. Def stat.:Dark
+Memento:10:--:100:The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.:Dark
+Nasty Plot:20:--:101:The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.:Dark
+Night Daze:10:85:95:The user lets loose a pitch-black shock wave at its target. This may also lower the target's accuracy.:Dark
+Night Slash:15:70:100:The user slashes the target the instant an opportunity arises. Critical hits land more easily.:Dark
+Obstruct:10:--:100:This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker's Defense stat.:Dark
+Parting Shot:20:--:100:With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches with a party Pokémon.:Dark
+Payback:10:50:100:The user stores power, then attacks. If the user moves after the target, this attack's power will be doubled.:Dark
+Power Trip:10:20:100:The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.:Dark
+Punishment:5:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Pursuit:20:40:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Quash:15:--:100:The user suppresses the target and makes its move go last.:Dark
+Snarl:15:55:95:The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.:Dark
+Snatch:10:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dark
+Sucker Punch:5:70:100:This move enables the user to attack first. This move fails if the target is not readying an attack.:Dark
+Switcheroo:10:--:100:The user trades held items with the target faster than the eye can follow.:Dark
+Taunt:20:--:100:The target is taunted into a rage that allows it to use only attack moves for three turns.:Dark
+Thief:25:60:100:The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item.:Dark
+Throat Chop:15:80:100:The user attacks the target's throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.:Dark
+Topsy-Turvy:20:--:101:All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.:Dark
+Torment:15:--:100:The user torments and enrages the target, making it incapable of using the same move twice in a row.:Dark
+Wicked Blow:5:80:100:The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.:Dark
+Breaking Swipe:15:60:100:The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.:Dragon
+Clanging Scales:5:110:100:The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat goes down after the attack.:Dragon
+Clangorous Soul:5:--:100:The user raises all its stats by using some of its HP.:Dragon
+Clangorous Soulblaze:1:185:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dragon
+Core Enforcer:10:100:100:If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target's Ability.:Dragon
+Devastating Drake:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dragon
+Devastating Drake:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dragon
+Draco Meteor:5:130:90:Comets are summoned down from the sky onto the target. The attack's recoil harshly lowers the user's Sp. Atk stat.:Dragon
+Dragon Breath:20:60:100:The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.:Dragon
+Dragon Claw:15:80:100:The user slashes the target with huge sharp claws.:Dragon
+Dragon Dance:20:--:101:The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.:Dragon
+Dragon Darts:10:50:100:The user attacks twice using Dreepy. If there are two targets, this move hits each target once.:Dragon
+Dragon Energy:5:150:100:Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power.:Dragon
+Dragon Hammer:15:90:100:The user uses its body like a hammer to attack the target and inflict damage.:Dragon
+Dragon Pulse:10:85:100:The target is attacked with a shock wave generated by the user's gaping mouth.:Dragon
+Dragon Rage:10:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Dragon
+Dragon Rush:10:100:75:The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.:Dragon
+Dragon Tail:10:60:90:The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.:Dragon
+Dual Chop:15:40:90:The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.:Dragon
+Dynamax Cannon:5:100:100:The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.:Dragon
+Eternabeam:5:160:90:This is Eternatus's most powerful attack in its original form. The user can't move on the next turn.:Dragon
+G-Max Depletion:10:--:101:A Dragon-type attack that Gigantamax Duraludon use. Reduces the PP of the last move used.:Dragon
+Max Wyrmwind:10:--:101:This is a Dragon-type attack Dynamax Pokémon use. This lowers the target's Attack stat.:Dragon
+Outrage:10:120:100:The user rampages and attacks for two to three turns. The user then becomes confused.:Dragon
+Roar of Time:5:150:90:The user blasts the target with power that distorts even time. The user can't move on the next turn.:Dragon
+Scale Shot:20:25:90:The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.:Dragon
+Spacial Rend:5:100:95:The user tears the target along with the space around it. Critical hits land more easily.:Dragon
+Twister:20:40:100:The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch.:Dragon
+Volt Thunderbolt:1:195:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Aura Wheel:10:110:100:Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move's type changes depending on the user's form.:Electric
+Bolt Beak:10:85:100:The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled.:Electric
+Bolt Strike:5:130:85:The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.:Electric
+Buzzy Buzz:20:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Catastropika:1:210:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Charge:20:--:101:The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.:Electric
+Charge Beam:10:50:90:The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.:Electric
+Discharge:15:80:100:The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.:Electric
+Eerie Impulse:15:--:100:The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat.:Electric
+Electric Terrain:10:--:101:The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.:Electric
+Electrify:20:--:101:If the target is electrified before it uses a move during that turn, the target's move becomes Electric type.:Electric
+Electro Ball:10:--:100:The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.:Electric
+Electroweb:15:55:95:The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stats.:Electric
+Fusion Bolt:5:100:100:The user throws down a giant lightning bolt. This move's power is increased when influenced by an enormous flame.:Electric
+G-Max Stun Shock:10:--:101:An Electric-type attack that Gigantamax Toxtricity use. This move poisons or paralyzes opponents.:Electric
+G-Max Volt Crash:10:--:101:An Electric-type attack that Gigantamax Pikachu use. This move paralyzes opponents.:Electric
+Gigavolt Havoc:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Gigavolt Havoc:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Ion Deluge:25:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Magnet Rise:10:--:101:The user levitates using electrically generated magnetism for five turns.:Electric
+Magnetic Flux:20:--:101:The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.:Electric
+Max Lightning:10:--:101:This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns.:Electric
+Nuzzle:20:20:100:The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.:Electric
+Overdrive:10:80:100:The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.:Electric
+Parabolic Charge:20:65:100:The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.:Electric
+Pika Papow:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Plasma Fists:15:100:100:The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.:Electric
+Rising Voltage:20:70:100:The user attacks with electric voltage rising from the ground. This move's power doubles when the target is on Electric Terrain.:Electric
+Shock Wave:20:60:101:The user strikes the target with a quick jolt of electricity. This attack never misses.:Electric
+Spark:20:65:100:The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.:Electric
+Stoked Sparksurfer:1:175:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Thunder:10:110:70:A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.:Electric
+Thunder Cage:15:80:90:The user traps the target in a cage of sparking electricity for four to five turns.:Electric
+Thunder Fang:15:65:95:The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.:Electric
+Thunder Punch:15:75:100:The target is punched with an electrified fist. This may also leave the target with paralysis.:Electric
+Thunder Shock:30:40:100:A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.:Electric
+Thunder Wave:20:--:90:The user launches a weak jolt of electricity that paralyzes the target.:Electric
+Thunderbolt:15:90:100:A strong electric blast crashes down on the target. This may also leave the target with paralysis.:Electric
+Volt Switch:20:70:100:After making its attack, the user rushes back to switch places with a party Pokémon in waiting.:Electric
+Volt Tackle:15:120:100:The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis.:Electric
+Wild Charge:15:90:100:The user shrouds itself in electricity and smashes into its target. This also damages the user a little.:Electric
+Zap Cannon:5:120:50:The user fires an electric blast like a cannon to inflict damage and cause paralysis.:Electric
+Zing Zap:10:80:100:A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.:Electric
+Zippy Zap:10:80:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Electric
+Aromatic Mist:20:--:101:The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma.:Fairy
+Baby-Doll Eyes:30:--:100:The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first.:Fairy
+Charm:20:--:100:The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.:Fairy
+Crafty Shield:10:--:101:The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage.:Fairy
+Dazzling Gleam:10:80:100:The user damages opposing Pokémon by emitting a powerful flash.:Fairy
+Decorate:15:--:101:The user sharply raises the target's Attack and Sp. Atk stats by decorating the target.:Fairy
+Disarming Voice:15:40:101:Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.:Fairy
+Draining Kiss:10:50:100:The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage taken by the target.:Fairy
+Fairy Lock:10:--:101:By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.:Fairy
+Fairy Wind:30:40:100:The user stirs up a fairy wind and strikes the target with it.:Fairy
+Fleur Cannon:5:130:90:The user unleashes a strong beam. The attack's recoil harshly lowers the user's Sp. Atk stat.:Fairy
+Floral Healing:10:--:101:The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.:Fairy
+Flower Shield:10:--:101:The user raises the Defense stats of all Grass-type Pokémon in battle with a mysterious power.:Fairy
+G-Max Finale:10:--:101:A Fairy-type attack that Gigantamax Alcremie use. This move heals the HP of allies.:Fairy
+G-Max Smite:10:--:101:A Fairy-type attack that Gigantamax Hatterene use. This move confuses opponents.:Fairy
+Geomancy:10:--:101:The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.:Fairy
+Guardian of Alola:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fairy
+Let's Snuggle Forever:1:190:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fairy
+Light of Ruin:5:140:90:Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.:Fairy
+Max Starfall:10:--:101:This is a Fairy-type attack Dynamax Pokémon use. The user turns the ground into Misty Terrain for five turns.:Fairy
+Misty Explosion:5:100:100:The user attacks everything around it and faints upon using this move. This move's power is increased on Misty Terrain.:Fairy
+Misty Terrain:10:--:101:This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.:Fairy
+Moonblast:15:95:100:Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat.:Fairy
+Moonlight:5:--:101:The user restores its own HP. The amount of HP regained varies with the weather.:Fairy
+Nature's Madness:10:--:90:The user hits the target with the force of nature. It halves the target's HP.:Fairy
+Play Rough:10:90:90:The user plays rough with the target and attacks it. This may also lower the target's Attack stat.:Fairy
+Sparkly Swirl:5:120:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fairy
+Spirit Break:15:75:100:The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat.:Fairy
+Strange Steam:10:90:95:The user attacks the target by emitting steam. This may also confuse the target.:Fairy
+Sweet Kiss:10:--:75:The user kisses the target with a sweet, angelic cuteness that causes confusion.:Fairy
+Twinkle Tackle:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fairy
+Twinkle Tackle:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fairy
+All-Out Pummeling:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+All-Out Pummeling:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Arm Thrust:20:15:100:The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.:Fight
+Aura Sphere:20:80:101:The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.:Fight
+Body Press:10:80:100:The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.:Fight
+Brick Break:15:75:100:The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.:Fight
+Bulk Up:20:--:101:The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.:Fight
+Circle Throw:10:60:90:The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.:Fight
+Close Combat:5:120:100:The user fights the target up close without guarding itself. This also lowers the user's Defense and Sp. Def stats.:Fight
+Coaching:10:--:--:The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.:Fight
+Counter:20:--:100:A retaliation move that counters any physical attack, inflicting double the damage taken.:Fight
+Cross Chop:5:100:80:The user delivers a double chop with its forearms crossed. Critical hits land more easily.:Fight
+Detect:5:--:101:This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.:Fight
+Double Kick:30:30:100:The target is quickly kicked twice in succession using both feet.:Fight
+Drain Punch:10:75:100:An energy-draining punch. The user's HP is restored by half the damage taken by the target.:Fight
+Dynamic Punch:5:100:50:The user punches the target with full, concentrated power. This confuses the target if it hits.:Fight
+Final Gambit:5:--:100:The user risks everything to attack its target. The user faints but does damage equal to its HP.:Fight
+Flying Press:10:100:95:The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.:Fight
+Focus Blast:5:120:70:The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.:Fight
+Focus Punch:20:150:100:The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.:Fight
+Force Palm:10:60:100:The target is attacked with a shock wave. This may also leave the target with paralysis.:Fight
+G-Max Chi Strike:10:--:101:A Fighting-type attack that Gigantamax Machamp use. This move raises the chance of critical hits.:Fight
+Hammer Arm:10:100:90:The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.:Fight
+High Jump Kick:10:130:90:The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.:Fight
+Jump Kick:10:100:95:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Karate Chop:25:50:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Low Kick:20:--:100:A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power.:Fight
+Low Sweep:20:65:100:The user makes a swift attack on the target's legs, which lowers the target's Speed stat.:Fight
+Mach Punch:30:40:100:The user throws a punch at blinding speed. This move always goes first.:Fight
+Mat Block:10:--:101:Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.:Fight
+Max Knuckle:10:--:101:This is a Fighting-type attack Dynamax Pokémon use. This raises ally Pokémon's Attack stats.:Fight
+Meteor Assault:5:150:100:The user attacks wildly with its thick leek. The user can't move on the next turn, because the force of this move makes it stagger.:Fight
+No Retreat:5:--:101:This move raises all the user's stats but prevents the user from switching out or fleeing.:Fight
+Octolock:15:--:100:The user locks the target in and prevents it from fleeing. This move also lowers the target's Defense and Sp. Def every turn.:Fight
+Power-Up Punch:20:40:100:Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.:Fight
+Quick Guard:15:--:101:The user protects itself and its allies from priority moves.:Fight
+Revenge:10:60:100:This attack move's power is doubled if the user has been hurt by the opponent in the same turn.:Fight
+Reversal:15:--:100:An all-out attack that becomes more powerful the less HP the user has.:Fight
+Rock Smash:15:40:100:The user attacks with a punch. This may also lower the target's Defense stat.:Fight
+Rolling Kick:15:60:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Sacred Sword:15:90:100:The user attacks by slicing with a long horn. The target's stat changes don't affect this attack's damage.:Fight
+Secret Sword:10:85:100:The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.:Fight
+Seismic Toss:20:--:100:The target is thrown using the power of gravity. It inflicts damage equal to the user's level.:Fight
+Sky Uppercut:15:85:90:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Storm Throw:10:60:100:The user strikes the target with a fierce blow. This attack always results in a critical hit.:Fight
+Submission:20:80:80:The user grabs the target and recklessly dives for the ground. This also damages the user a little.:Fight
+Superpower:5:120:100:The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats.:Fight
+Thunderous Kick:10:90:100:The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat.:Fight
+Triple Kick:10:10:90:A consecutive three-kick attack that becomes more powerful with each successful hit.:Fight
+Vacuum Wave:30:40:100:The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.:Fight
+Vital Throw:10:70:101:The user attacks last. In return, this throw move never misses.:Fight
+Wake-Up Slap:10:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fight
+Blast Burn:5:150:90:The target is razed by a fiery explosion. The user can't move on the next turn.:Fire
+Blaze Kick:10:85:90:The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.:Fire
+Blue Flare:5:130:85:The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.:Fire
+Burn Up:5:130:100:To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.:Fire
+Burning Jealousy:5:70:100:The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn.:Fire
+Ember:25:40:100:The target is attacked with small flames. This may also leave the target with a burn.:Fire
+Eruption:5:150:100:The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power.:Fire
+Fiery Dance:10:80:100:Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also raise the user's Sp. Atk stat.:Fire
+Fire Blast:5:110:85:The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.:Fire
+Fire Fang:15:65:95:The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.:Fire
+Fire Lash:15:80:100:The user strikes the target with a burning lash. This also lowers the target's Defense stat.:Fire
+Fire Pledge:10:80:100:A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears.:Fire
+Fire Punch:15:75:100:The target is punched with a fiery fist. This may also leave the target with a burn.:Fire
+Fire Spin:15:35:85:The target becomes trapped within a fierce vortex of fire that rages for four to five turns.:Fire
+Flame Burst:15:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fire
+Flame Charge:20:50:100:Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat.:Fire
+Flame Wheel:25:60:100:The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.:Fire
+Flamethrower:15:90:100:The target is scorched with an intense blast of fire. This may also leave the target with a burn.:Fire
+Flare Blitz:15:120:100:The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.:Fire
+Fusion Flare:5:100:100:The user brings down a giant flame. This move's power is increased when influenced by an enormous lightning bolt.:Fire
+G-Max Centiferno:10:--:101:A Fire-type attack that Gigantamax Centiskorch use. This move traps opponents in flames for four to five turns.:Fire
+G-Max Fireball:10:--:101:A Fire-type attack that Gigantamax Cinderace use. This move can be used on the target regardless of its Abilities:Fire
+G-Max Wildfire:10:--:101:A Fire-type attack that Gigantamax Charizard use. This move continues to deal damage to opponents for four turns.:Fire
+Heat Crash:10:--:100:The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move's power.:Fire
+Heat Wave:10:95:90:The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn.:Fire
+Incinerate:15:60:100:The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.:Fire
+Inferno:5:100:50:The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.:Fire
+Inferno Overdrive:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fire
+Inferno Overdrive:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fire
+Lava Plume:15:80:100:The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.:Fire
+Magma Storm:5:100:75:The target becomes trapped within a maelstrom of fire that rages for four to five turns.:Fire
+Max Flare:10:--:101:This is a Fire-type attack Dynamax Pokémon use. The user intensifies the sun for five turns.:Fire
+Mind Blown:5:150:100:The user attacks everything around it by causing its own head to explode. This also damages the user.:Fire
+Mystical Fire:10:75:100:The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.:Fire
+Overheat:5:130:90:The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.:Fire
+Pyro Ball:5:120:90:The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.:Fire
+Sacred Fire:5:100:95:The target is razed with a mystical fire of great intensity. This may also leave the target with a burn.:Fire
+Searing Shot:5:100:100:The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.:Fire
+Shell Trap:5:150:100:The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on opposing Pokémon.:Fire
+Sizzly Slide:20:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Fire
+Sunny Day:5:--:101:The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.:Fire
+V-create:5:180:95:With a hot flame on its forehead, the user hurls itself at its target. This lowers the user's Defense, Sp. Def, and Speed stats.:Fire
+Will-O-Wisp:15:--:85:The user shoots a sinister flame at the target to inflict a burn.:Fire
+Acrobatics:15:55:100:The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.:Flying
+Aerial Ace:20:60:101:The user confounds the target with speed, then slashes. This attack never misses.:Flying
+Aeroblast:5:100:95:A vortex of air is shot at the target to inflict damage. Critical hits land more easily.:Flying
+Air Cutter:25:60:95:The user launches razor-like wind to slash opposing Pokémon. Critical hits land more easily.:Flying
+Air Slash:15:75:95:The user attacks with a blade of air that slices even the sky. This may also make the target flinch.:Flying
+Beak Blast:15:100:100:The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.:Flying
+Bounce:5:85:85:The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.:Flying
+Brave Bird:15:120:100:The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.:Flying
+Chatter:20:65:100:The user attacks the target with sound waves of deafening chatter. This confuses the target.:Flying
+Defog:15:--:101:A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.:Flying
+Dragon Ascent:5:120:100:After soaring upward, the user attacks its target by dropping out of the sky at high speeds. But it lowers its own Defense and Sp. Def stats in the process.:Flying
+Drill Peck:20:80:100:A corkscrewing attack that strikes the target with a sharp beak acting as a drill.:Flying
+Dual Wingbeat:10:40:90:The user slams the target with its wings. The target is hit twice in a row.:Flying
+Feather Dance:15:--:100:The user covers the target's body with a mass of down that harshly lowers its Attack stat.:Flying
+Floaty Fall:15:90:95:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Flying
+Fly:15:90:95:The user flies up into the sky and then strikes its target on the next turn.:Flying
+G-Max Wind Rage:10:--:101:A Flying-type attack that Gigantamax Corviknight use. This move removes the effects of moves like Reflect and Light Screen.:Flying
+Gust:35:40:100:A gust of wind is whipped up by wings and launched at the target to inflict damage.:Flying
+Hurricane:10:110:70:The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.:Flying
+Max Airstream:10:--:101:This is a Flying-type attack Dynamax Pokémon use. This raises ally Pokémon's Speed stats.:Flying
+Mirror Move:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Flying
+Oblivion Wing:10:80:100:The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target.:Flying
+Peck:35:35:100:The target is jabbed with a sharply pointed beak or horn.:Flying
+Pluck:20:60:100:The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.:Flying
+Roost:10:--:101:The user lands and rests its body. This move restores the user's HP by up to half of its max HP.:Flying
+Sky Attack:5:140:90:A second-turn attack move where critical hits land more easily. This may also make the target flinch.:Flying
+Sky Drop:10:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Flying
+Supersonic Skystrike:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Flying
+Supersonic Skystrike:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Flying
+Tailwind:15:--:101:The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns.:Flying
+Wing Attack:35:60:100:The target is struck with large, imposing wings spread wide to inflict damage.:Flying
+Astonish:15:30:100:The user attacks the target while shouting in a startling fashion. This may also make the target flinch.:Ghost
+Astral Barrage:5:120:100:The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.:Ghost
+Confuse Ray:10:--:100:The target is exposed to a sinister ray that triggers confusion.:Ghost
+Curse:10:--:101:A move that works differently for the Ghost type than for all other types.:Ghost
+Destiny Bond:5:--:101:After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.:Ghost
+G-Max Terror:10:--:101:A Ghost-type attack that Gigantamax Gengar use. This Pokémon steps on the opposing Pokémonâ€™s shadow to prevent them from escaping.:Ghost
+Grudge:5:--:101:If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out.:Ghost
+Hex:10:65:100:This relentless attack does massive damage to a target affected by status conditions.:Ghost
+Lick:30:30:100:The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.:Ghost
+Max Phantasm:10:--:101:This is a Ghost-type attack Dynamax Pokémon use. This lowers the target's Defense stat.:Ghost
+Menacing Moonraze Maelstrom:1:200:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Moongeist Beam:5:100:100:The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities.:Ghost
+Never-Ending Nightmare:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Never-Ending Nightmare:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Night Shade:15:--:100:The user makes the target see a frightening mirage. It inflicts damage equal to the user's level.:Ghost
+Nightmare:15:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Ominous Wind:5:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Phantom Force:10:90:100:The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.:Ghost
+Poltergeist:5:110:90:The user attacks the target by controlling the target's item. The move fails if the target doesn't have an item.:Ghost
+Shadow Ball:15:80:100:The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat.:Ghost
+Shadow Bone:10:85:100:The user attacks by beating the target with a bone that contains a spirit. This may also lower the target's Defense stat.:Ghost
+Shadow Claw:15:70:100:The user slashes with a sharp claw made from shadows. Critical hits land more easily.:Ghost
+Shadow Force:5:120:100:The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself.:Ghost
+Shadow Punch:20:60:101:The user throws a punch from the shadows. This attack never misses.:Ghost
+Shadow Sneak:30:40:100:The user extends its shadow and attacks the target from behind. This move always goes first.:Ghost
+Sinister Arrow Raid:1:180:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Soul-Stealing 7-Star Strike:1:195:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ghost
+Spectral Thief:10:90:100:The user hides in the target's shadow, steals the target's stat boosts, and then attacks.:Ghost
+Spirit Shackle:10:80:100:The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from escaping.:Ghost
+Spite:10:--:100:The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.:Ghost
+Trick-or-Treat:20:--:100:The user takes the target trick-or-treating. This adds Ghost type to the target's type.:Ghost
+Absorb:25:20:100:A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.:Grass
+Apple Acid:10:80:100:The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat.:Grass
+Aromatherapy:5:--:101:The user releases a soothing scent that heals all status conditions affecting the user's party.:Grass
+Bloom Doom:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Grass
+Bloom Doom:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Grass
+Branch Poke:40:40:100:The user attacks the target by poking it with a sharply pointed branch.:Grass
+Bullet Seed:30:25:100:The user forcefully shoots seeds at the target two to five times in a row.:Grass
+Cotton Guard:10:--:101:The user protects itself by wrapping its body in soft cotton, which drastically raises the user's Defense stat.:Grass
+Cotton Spore:40:--:100:The user releases cotton-like spores that cling to opposing Pokémon, which harshly lowers their Speed stats.:Grass
+Drum Beating:10:80:100:The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat.:Grass
+Energy Ball:10:90:100:The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.:Grass
+Forest's Curse:20:--:100:The user puts a forest curse on the target. The target is now Grass type as well.:Grass
+Frenzy Plant:5:150:90:The user slams the target with the roots of an enormous tree. The user can't move on the next turn.:Grass
+G-Max Drum Solo:10:--:101:A Grass-type attack that Gigantamax Rillaboom use. This move can be used on the target regardless of its Abilities.:Grass
+G-Max Sweetness:10:--:101:A Grass-type attack that Gigantamax Appletun use. This move heals the status conditions of allies.:Grass
+G-Max Tartness:10:--:101:A Grass-type attack that Gigantamax Flapple use. This move reduces the opponentsâ€™ evasiveness.:Grass
+G-Max Vine Lash:10:--:101:A Grass-type attack that Gigantamax Venusaur use. This move continues to deal damage to opponents for four turns.:Grass
+Giga Drain:10:75:100:A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.:Grass
+Grass Knot:20:--:100:The user snares the target with grass and trips it. The heavier the target, the greater the move's power.:Grass
+Grass Pledge:10:80:100:A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.:Grass
+Grass Whistle:15:--:55:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Grass
+Grassy Glide:20:70:100:Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.:Grass
+Grassy Terrain:10:--:101:The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.:Grass
+Grav Apple:10:80:100:The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat.:Grass
+Horn Leech:10:75:100:The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target.:Grass
+Ingrain:20:--:101:The user lays roots that restore its HP on every turn. Because it's rooted, it can't switch out.:Grass
+Jungle Healing:10:--:101:The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle.:Grass
+Leaf Blade:15:90:100:The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.:Grass
+Leaf Storm:5:130:90:The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.:Grass
+Leaf Tornado:10:65:90:The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy.:Grass
+Leafage:40:40:100:The user attacks by pelting the target with leaves.:Grass
+Leech Seed:10:--:90:A seed is planted on the target. It steals some HP from the target every turn.:Grass
+Magical Leaf:20:60:101:The user scatters curious leaves that chase the target. This attack never misses.:Grass
+Max Overgrowth:10:--:101:This is a Grass-type attack Dynamax Pokémon use. The user turns the ground into Grassy Terrain for five turns.:Grass
+Mega Drain:15:40:100:A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.:Grass
+Needle Arm:15:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Grass
+Petal Blizzard:15:90:100:The user stirs up a violent petal blizzard and attacks everything around it.:Grass
+Petal Dance:10:120:100:The user attacks the target by scattering petals for two to three turns. The user then becomes confused.:Grass
+Power Whip:10:120:85:The user violently whirls its vines, tentacles, or the like to harshly lash the target.:Grass
+Razor Leaf:25:55:95:Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily.:Grass
+Sappy Seed:10:100:90:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Grass
+Seed Bomb:15:80:100:The user slams a barrage of hard-shelled seeds down on the target from above.:Grass
+Seed Flare:5:120:85:The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def stat.:Grass
+Sleep Powder:15:--:75:The user scatters a big cloud of sleep-inducing dust around the target.:Grass
+Snap Trap:15:35:100:The user snares the target in a snap trap for four to five turns.:Grass
+Solar Beam:10:120:100:In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.:Grass
+Solar Blade:10:125:100:In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.:Grass
+Spiky Shield:10:--:101:In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact.:Grass
+Spore:15:--:100:The user scatters bursts of spores that induce sleep.:Grass
+Strength Sap:10:--:100:The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.:Grass
+Stun Spore:30:--:75:The user scatters a cloud of numbing powder that paralyzes the target.:Grass
+Synthesis:5:--:101:The user restores its own HP. The amount of HP regained varies with the weather.:Grass
+Trop Kick:15:70:100:The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat.:Grass
+Vine Whip:25:45:100:The target is struck with slender, whiplike vines to inflict damage.:Grass
+Wood Hammer:15:120:100:The user slams its rugged body into the target to attack. This also damages the user quite a lot.:Grass
+Worry Seed:10:--:100:A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.:Grass
+Bone Club:20:65:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Bone Rush:10:25:90:The user strikes the target with a hard bone two to five times in a row.:Ground
+Bonemerang:10:50:90:The user throws the bone it holds. The bone loops around to hit the target twice—coming and going.:Ground
+Bulldoze:20:60:100:The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.:Ground
+Dig:10:80:100:The user burrows into the ground, then attacks on the next turn.:Ground
+Drill Run:10:80:95:The user crashes into its target while rotating its body like a drill. Critical hits land more easily.:Ground
+Earth Power:10:90:100:The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.:Ground
+Earthquake:10:100:100:The user sets off an earthquake that strikes every Pokémon around it.:Ground
+Fissure:5:--:30:The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.:Ground
+G-Max Sandblast:10:--:101:A Ground-type attack that Gigantamax Sandaconda use. Opponents are trapped in a raging sandstorm for four to five turns.:Ground
+High Horsepower:10:95:95:The user fiercely attacks the target using its entire body.:Ground
+Land's Wrath:10:90:100:The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them.:Ground
+Magnitude:30:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Max Quake:10:--:101:This is a Ground-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Def stats.:Ground
+Mud Bomb:10:65:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Mud Shot:15:55:95:The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat.:Ground
+Mud Sport:15:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Mud-Slap:10:20:100:The user hurls mud in the target's face to inflict damage and lower its accuracy.:Ground
+Precipice Blades:10:120:85:The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.:Ground
+Rototiller:10:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Sand Attack:15:--:100:Sand is hurled in the target's face, reducing the target's accuracy.:Ground
+Sand Tomb:15:35:85:The user traps the target inside a harshly raging sandstorm for four to five turns.:Ground
+Scorching Sands:10:70:100:The user throws scorching sand at the target to attack. This may also leave the target with a burn.:Ground
+Shore Up:10:--:101:The user regains up to half of its max HP. It restores more HP in a sandstorm.:Ground
+Spikes:20:--:101:The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle.:Ground
+Stomping Tantrum:10:75:100:Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.:Ground
+Tectonic Rage:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Tectonic Rage:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ground
+Thousand Arrows:10:90:100:This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground.:Ground
+Thousand Waves:10:90:100:The user attacks with a wave that crawls along the ground. Those it hits can't flee from battle.:Ground
+Aurora Beam:20:65:100:The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat.:Ice
+Aurora Veil:20:--:101:This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.:Ice
+Avalanche:10:60:100:The power of this attack move is doubled if the user has been hurt by the target in the same turn.:Ice
+Blizzard:5:110:70:A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.:Ice
+Freeze Shock:5:140:90:On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis.:Ice
+Freeze-Dry:20:70:100:The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.:Ice
+Freezy Frost:10:100:90:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ice
+Frost Breath:10:60:90:The user blows its cold breath on the target. This attack always results in a critical hit.:Ice
+G-Max Resonance:10:--:101:An Ice-type attack that Gigantamax Lapras use. This move reduces the damage received for five turns.:Ice
+Glacial Lance:5:130:100:The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.:Ice
+Glaciate:10:65:95:The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stats.:Ice
+Hail:10:--:101:The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types.:Ice
+Haze:30:--:101:The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.:Ice
+Ice Ball:20:30:90:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ice
+Ice Beam:10:90:100:The target is struck with an icy-cold beam of energy. This may also leave the target frozen.:Ice
+Ice Burn:5:140:90:On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.:Ice
+Ice Fang:15:65:95:The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.:Ice
+Ice Hammer:10:100:90:The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.:Ice
+Ice Punch:15:75:100:The target is punched with an icy fist. This may also leave the target frozen.:Ice
+Ice Shard:30:40:100:The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.:Ice
+Icicle Crash:10:85:90:The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.:Ice
+Icicle Spear:30:25:100:The user launches sharp icicles at the target two to five times in a row.:Ice
+Icy Wind:15:55:95:The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats.:Ice
+Max Hailstorm:10:--:101:This is an Ice-type attack Dynamax Pokémon use. The user summons a hailstorm lasting five turns.:Ice
+Mist:30:--:101:The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.:Ice
+Powder Snow:25:40:100:The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pokémon.:Ice
+Sheer Cold:5:--:30:The target faints instantly. It's less likely to hit the target if it's used by Pokémon other than Ice types.:Ice
+Subzero Slammer:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ice
+Subzero Slammer:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Ice
+Triple Axel:10:20:90:A consecutive three-kick attack that becomes more powerful with each successful hit.:Ice
+Acupressure:30:--:101:The user applies pressure to stress points, sharply boosting one of its or its allies' stats.:Normal
+After You:15:--:101:The user helps the target and makes it use its move right after the user.:Normal
+Assist:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Attract:15:--:100:If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.:Normal
+Barrage:20:15:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Baton Pass:40:--:101:The user switches places with a party Pokémon in waiting and passes along any stat changes.:Normal
+Belly Drum:10:--:101:The user maximizes its Attack stat in exchange for HP equal to half its max HP.:Normal
+Bestow:15:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Bide:10:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Bind:20:15:85:Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.:Normal
+Block:5:--:101:The user blocks the target's way with arms spread wide to prevent escape.:Normal
+Body Slam:15:85:100:The user drops onto the target with its full body weight. This may also leave the target with paralysis.:Normal
+Boomburst:10:140:100:The user attacks everything around it with the destructive power of a terrible, explosive sound.:Normal
+Breakneck Blitz:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Breakneck Blitz:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Camouflage:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Captivate:20:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Celebrate:40:--:101:The Pokémon congratulates you on your special day!:Normal
+Chip Away:20:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Comet Punch:15:18:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Confide:20:--:101:The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat.:Normal
+Constrict:35:10:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Conversion:30:--:101:The user changes its type to become the same type as the move at the top of the list of moves it knows.:Normal
+Conversion 2:30:--:101:The user changes its type to make itself resistant to the type of the attack the target used last.:Normal
+Copycat:20:--:101:The user mimics the move used immediately before it. The move fails if no other move has been used yet.:Normal
+Court Change:10:--:100:With its mysterious power, the user swaps the effects on either side of the field.:Normal
+Covet:25:60:100:The user endearingly approaches the target, then steals the target's held item.:Normal
+Crush Claw:10:75:95:The user slashes the target with hard and sharp claws. This may also lower the target's Defense stat.:Normal
+Crush Grip:5:--:100:The target is crushed with great force. The more HP the target has left, the greater this move's power.:Normal
+Cut:30:50:95:The target is cut with a scythe or claw.:Normal
+Defense Curl:40:--:101:The user curls up to conceal weak spots and raise its Defense stat.:Normal
+Disable:20:--:100:For four turns, this move prevents the target from using the move it last used.:Normal
+Dizzy Punch:10:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Double Hit:10:35:90:The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.:Normal
+Double Slap:10:15:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Double Team:15:--:101:By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.:Normal
+Double-Edge:15:120:100:A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.:Normal
+Echoed Voice:15:40:100:The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.:Normal
+Egg Bomb:10:100:75:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Encore:5:--:100:The user compels the target to keep using the move it encored for three turns.:Normal
+Endeavor:5:--:100:This attack move cuts down the target's HP to equal the user's HP.:Normal
+Endure:10:--:101:The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.:Normal
+Entrainment:15:--:100:The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.:Normal
+Explosion:5:250:100:The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.:Normal
+Extreme Evoboost:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Extreme Speed:5:80:100:The user charges the target at blinding speed. This move always goes first.:Normal
+Facade:20:70:100:This attack move doubles its power if the user is poisoned, burned, or paralyzed.:Normal
+Fake Out:10:40:100:This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.:Normal
+False Swipe:40:40:100:A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.:Normal
+Feint:10:30:100:This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.:Normal
+Flail:15:--:100:The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.:Normal
+Flash:20:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Focus Energy:30:--:101:The user takes a deep breath and focuses so that critical hits land more easily.:Normal
+Follow Me:20:--:101:The user draws attention to itself, making all targets take aim only at the user.:Normal
+Foresight:40:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Frustration:20:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Fury Attack:20:15:85:The target is jabbed repeatedly with a horn or beak two to five times in a row.:Normal
+Fury Swipes:15:18:80:The target is raked with sharp claws or scythes quickly two to five times in a row.:Normal
+G-Max Cuddle:10:--:101:A Normal-type attack that Gigantamax Eevee use. This move infatuates opponents.:Normal
+G-Max Gold Rush:10:--:101:A Normal-type attack that Gigantamax Meowth use. This move confuses opponents and also earns extra money.:Normal
+G-Max Replenish:10:--:101:A Normal-type attack that Gigantamax Snorlax use. This move restores Berries that have been eaten.:Normal
+Giga Impact:5:150:90:The user charges at the target using every bit of its power. The user can't move on the next turn.:Normal
+Glare:30:--:100:The user intimidates the target with the pattern on its belly to cause paralysis.:Normal
+Growl:40:--:100:The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.:Normal
+Growth:20:--:101:The user's body grows all at once, raising the Attack and Sp. Atk stats.:Normal
+Guillotine:5:--:30:A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.:Normal
+Happy Hour:30:--:101:Using Happy Hour doubles the amount of prize money received after battle.:Normal
+Harden:30:--:101:The user stiffens all the muscles in its body to raise its Defense stat.:Normal
+Head Charge:15:120:100:The user charges its head into its target, using its powerful guard hair. This also damages the user a little.:Normal
+Headbutt:15:70:100:The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.:Normal
+Heal Bell:5:--:101:The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.:Normal
+Helping Hand:20:--:101:The user assists an ally by boosting the power of that ally's attack.:Normal
+Hidden Power:15:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Hold Back:40:40:100:The user holds back when it attacks, and the target is left with at least 1 HP.:Normal
+Hold Hands:40:--:101:The user and an ally hold hands. This makes them very happy.:Normal
+Horn Attack:25:65:100:The target is jabbed with a sharply pointed horn to inflict damage.:Normal
+Horn Drill:5:--:30:The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.:Normal
+Howl:40:--:101:The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats.:Normal
+Hyper Beam:5:150:90:The target is attacked with a powerful beam. The user can't move on the next turn.:Normal
+Hyper Fang:15:80:90:The user bites hard on the target with its sharp front fangs. This may also make the target flinch.:Normal
+Hyper Voice:10:90:100:The user lets loose a horribly echoing shout with the power to inflict damage.:Normal
+Judgment:10:100:100:The user releases countless shots of light at the target. This move's type varies depending on the kind of Plate the user is holding.:Normal
+Laser Focus:30:--:101:The user concentrates intensely. The attack on the next turn always results in a critical hit.:Normal
+Last Resort:5:140:100:This move can be used only after the user has used all the other moves it knows in the battle.:Normal
+Leer:30:--:100:The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.:Normal
+Lock-On:5:--:101:The user takes sure aim at the target. This ensures the next attack does not miss the target.:Normal
+Lovely Kiss:10:--:75:With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.:Normal
+Lucky Chant:30:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Max Guard:10:--:101:This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.:Normal
+Max Strike:10:--:101:This is a Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat.:Normal
+Me First:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Mean Look:5:--:101:The user pins the target with a dark, arresting look. The target becomes unable to flee.:Normal
+Mega Kick:5:120:75:The target is attacked by a kick launched with muscle-packed power.:Normal
+Mega Punch:20:80:85:The target is slugged by a punch thrown with muscle-packed power.:Normal
+Metronome:10:--:101:The user waggles a finger and stimulates its brain into randomly using nearly any move.:Normal
+Milk Drink:10:--:101:The user restores its own HP by up to half of its max HP.:Normal
+Mimic:10:--:101:The user copies the target's last move. The move can be used during battle until the Pokémon is switched out.:Normal
+Mind Reader:5:--:101:The user senses the target's movements with its mind to ensure its next attack does not miss the target.:Normal
+Minimize:10:--:101:The user compresses its body to make itself look smaller, which sharply raises its evasiveness.:Normal
+Morning Sun:5:--:101:The user restores its own HP. The amount of HP regained varies with the weather.:Normal
+Multi-Attack:10:120:100:Cloaking itself in high energy, the user slams into the target. The memory held determines the move's type.:Normal
+Natural Gift:15:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Nature Power:20:--:101:This attack makes use of nature's power. Its effects vary depending on the user's environment.:Normal
+Noble Roar:30:--:100:Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.:Normal
+Odor Sleuth:40:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Pain Split:20:--:101:The user adds its HP to the target's HP, then equally shares the combined HP with the target.:Normal
+Pay Day:20:40:100:Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.:Normal
+Perish Song:5:--:101:Any Pokémon that hears this song faints in three turns, unless it switches out of battle.:Normal
+Play Nice:20:--:101:The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat.:Normal
+Pound:35:40:100:The target is physically pounded with a long tail, a foreleg, or the like.:Normal
+Present:15:--:90:The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.:Normal
+Protect:10:--:101:This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.:Normal
+Psych Up:10:--:101:The user hypnotizes itself into copying any stat change made by the target.:Normal
+Pulverizing Pancake:1:210:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Quick Attack:30:40:100:The user lunges at the target at a speed that makes it almost invisible. This move always goes first.:Normal
+Rage:20:20:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Rapid Spin:40:50:100:A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user's Speed stat.:Normal
+Razor Wind:10:80:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Recover:10:--:101:Restoring its own cells, the user restores its own HP by half of its max HP.:Normal
+Recycle:10:--:101:The user recycles a held item that has been used in battle so it can be used again.:Normal
+Reflect Type:15:--:101:The user reflects the target's type, making the user the same type as the target.:Normal
+Refresh:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Relic Song:10:75:100:The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep.:Normal
+Retaliate:5:70:100:The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased.:Normal
+Return:20:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Revelation Dance:15:90:100:The user attacks the target by dancing very hard. The user's type determines the type of this move.:Normal
+Roar:20:--:101:The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.:Normal
+Rock Climb:20:90:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Round:15:60:100:The user attacks the target with a song. Others can join in the Round to increase the power of the attack.:Normal
+Safeguard:25:--:101:The user creates a protective field that prevents status conditions for five turns.:Normal
+Scary Face:10:--:100:The user frightens the target with a scary face to harshly lower its Speed stat.:Normal
+Scratch:35:40:100:Hard, pointed, sharp claws rake the target to inflict damage.:Normal
+Screech:40:--:85:An earsplitting screech harshly lowers the target's Defense stat.:Normal
+Secret Power:20:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Self-Destruct:5:200:100:The user attacks everything around it by causing an explosion. The user faints upon using this move.:Normal
+Sharpen:30:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Shell Smash:15:--:101:The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.:Normal
+Simple Beam:15:--:100:The user's mysterious psychic wave changes the target's Ability to Simple.:Normal
+Sing:15:--:55:A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.:Normal
+Sketch:1:--:101:It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.:Normal
+Skull Bash:10:130:100:The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.:Normal
+Slack Off:10:--:101:The user slacks off, restoring its own HP by up to half of its max HP.:Normal
+Slam:20:80:75:The target is slammed with a long tail, vines, or the like to inflict damage.:Normal
+Slash:20:70:100:The target is attacked with a slash of claws or blades. Critical hits land more easily.:Normal
+Sleep Talk:10:--:101:While it is asleep, the user randomly uses one of the moves it knows.:Normal
+Smelling Salts:10:70:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Smokescreen:20:--:100:The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy.:Normal
+Snore:15:50:100:This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.:Normal
+Soft-Boiled:10:--:101:The user restores its own HP by up to half of its max HP.:Normal
+Sonic Boom:20:--:90:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Spike Cannon:15:20:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Spit Up:10:--:100:The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.:Normal
+Splash:40:--:101:The user just flops and splashes around to no effect at all...:Normal
+Spotlight:15:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Stockpile:20:--:101:The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.:Normal
+Stomp:20:65:100:The target is stomped with a big foot. This may also make the target flinch.:Normal
+Strength:15:80:100:The target is slugged with a punch thrown at maximum power.:Normal
+Struggle:1:50:101:This attack is used in desperation only if the user has no PP. It also damages the user a little.:Normal
+Stuff Cheeks:10:--:101:The user eats its held Berry, then sharply raises its Defense stat.:Normal
+Substitute:10:--:101:The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.:Normal
+Super Fang:10:--:90:The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.:Normal
+Supersonic:20:--:55:The user generates odd sound waves from its body that confuse the target.:Normal
+Swagger:15:--:85:The user enrages and confuses the target. However, this also sharply raises the target's Attack stat.:Normal
+Swallow:10:--:101:The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.:Normal
+Sweet Scent:20:--:100:A sweet scent that harshly lowers opposing Pokémon's evasiveness.:Normal
+Swift:20:60:101:Star-shaped rays are shot at opposing Pokémon. This attack never misses.:Normal
+Swords Dance:20:--:101:A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.:Normal
+Tackle:35:40:100:A physical attack in which the user charges and slams into the target with its whole body.:Normal
+Tail Slap:10:25:85:The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.:Normal
+Tail Whip:30:--:100:The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats.:Normal
+Take Down:20:90:85:A reckless, full-body charge attack for slamming into the target. This also damages the user a little.:Normal
+Tearful Look:20:--:101:The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.:Normal
+Teatime:10:--:101:The user has teatime with all the Pokémon in the battle. Each Pokémon eats its held Berry.:Normal
+Techno Blast:5:120:100:The user fires a beam of light at its target. The move's type changes depending on the Drive the user holds.:Normal
+Teeter Dance:20:--:100:The user performs a wobbly dance that confuses the Pokémon around it.:Normal
+Terrain Pulse:10:50:100:The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used.:Normal
+Thrash:10:120:100:The user rampages and attacks for two to three turns. The user then becomes confused.:Normal
+Tickle:20:--:100:The user tickles the target into laughing, reducing its Attack and Defense stats.:Normal
+Transform:10:--:101:The user transforms into a copy of the target right down to having the same move set.:Normal
+Tri Attack:10:80:100:The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.:Normal
+Trump Card:5:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Uproar:10:90:100:The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.:Normal
+Veevee Volley:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Vise Grip:30:55:100:The target is gripped and squeezed from both sides to inflict damage.:Normal
+Weather Ball:10:50:100:This attack move varies in power and type depending on the weather.:Normal
+Whirlwind:20:--:101:The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.:Normal
+Wish:10:--:101:One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.:Normal
+Work Up:30:--:101:The user is roused, and its Attack and Sp. Atk stats increase.:Normal
+Wrap:20:15:90:A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.:Normal
+Wring Out:5:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Normal
+Yawn:10:--:101:The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.:Normal
+Acid:30:40:100:Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.:Poison
+Acid Armor:20:--:101:The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.:Poison
+Acid Downpour:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Poison
+Acid Downpour:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Poison
+Acid Spray:20:40:100:The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.:Poison
+Baneful Bunker:10:--:101:In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.:Poison
+Belch:10:120:90:The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.:Poison
+Clear Smog:15:50:101:The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal.:Poison
+Coil:20:--:101:The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.:Poison
+Corrosive Gas:40:--:100:The user surrounds everything around it with highly acidic gas and melts away items they hold.:Poison
+Cross Poison:20:70:100:A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.:Poison
+G-Max Malodor:10:--:101:A Poison-type attack that Gigantamax Garbodor use. This move poisons opponents.:Poison
+Gastro Acid:10:--:100:The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.:Poison
+Gunk Shot:5:120:80:The user shoots filthy garbage at the target to attack. This may also poison the target.:Poison
+Max Ooze:10:--:101:This is a Poison-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Atk stats.:Poison
+Poison Fang:15:50:100:The user bites the target with toxic fangs. This may also leave the target badly poisoned.:Poison
+Poison Gas:40:--:90:A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those it hits.:Poison
+Poison Jab:20:80:100:The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.:Poison
+Poison Powder:35:--:75:The user scatters a cloud of poisonous dust that poisons the target.:Poison
+Poison Sting:35:15:100:The user stabs the target with a poisonous stinger. This may also poison the target.:Poison
+Poison Tail:25:50:100:The user hits the target with its tail. This may also poison the target. Critical hits land more easily.:Poison
+Purify:20:--:101:The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.:Poison
+Shell Side Arm:10:90:100:This move inflicts physical or special damage, whichever will be more effective. This may also poison the target.:Poison
+Sludge:20:65:100:Unsanitary sludge is hurled at the target. This may also poison the target.:Poison
+Sludge Bomb:10:90:100:Unsanitary sludge is hurled at the target. This may also poison the target.:Poison
+Sludge Wave:10:95:100:The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.:Poison
+Smog:20:30:70:The target is attacked with a discharge of filthy gases. This may also poison the target.:Poison
+Toxic:10:--:90:A move that leaves the target badly poisoned. Its poison damage worsens every turn.:Poison
+Toxic Spikes:20:--:101:The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.:Poison
+Toxic Thread:20:--:100:The user shoots poisonous threads to poison the target and lower the target's Speed stat.:Poison
+Venom Drench:20:--:100:Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.:Poison
+Venoshock:10:65:100:The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned.:Poison
+Agility:30:--:101:The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.:Psychic
+Ally Switch:15:--:101:The user teleports using a strange power and switches places with one of its allies.:Psychic
+Amnesia:20:--:101:The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat.:Psychic
+Barrier:20:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Calm Mind:20:--:101:The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.:Psychic
+Confusion:25:50:100:The target is hit by a weak telekinetic force. This may also confuse the target.:Psychic
+Cosmic Power:20:--:101:The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.:Psychic
+Dream Eater:15:100:100:The user eats the dreams of a sleeping target. The user's HP is restored by half the damage taken by the target.:Psychic
+Eerie Spell:5:80:100:The user attacks with its tremendous psychic power. This also removes 3 PP from the target's last move.:Psychic
+Expanding Force:10:80:100:The user attacks the target with its psychic power. This move's power goes up and damages all opposing Pokémon on Psychic Terrain.:Psychic
+Extrasensory:20:80:100:The user attacks with an odd, unseeable power. This may also make the target flinch.:Psychic
+Freezing Glare:10:90:100:The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.:Psychic
+Future Sight:10:120:100:Two turns after this move is used, a hunk of psychic energy attacks the target.:Psychic
+G-Max Gravitas:10:--:101:A Psychic-type attack that Gigantamax Orbeetle use. This move changes gravity for five turns.:Psychic
+Genesis Supernova:1:185:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Glitzy Glow:15:80:95:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Gravity:5:--:101:This move enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Moves that involve flying can't be used.:Psychic
+Guard Split:10:--:101:The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.:Psychic
+Guard Swap:10:--:101:The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.:Psychic
+Heal Block:15:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Heal Pulse:10:--:101:The user emits a healing pulse that restores the target's HP by up to half of its max HP.:Psychic
+Healing Wish:10:--:101:The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.:Psychic
+Heart Stamp:25:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Heart Swap:10:--:101:The user employs its psychic power to switch stat changes with the target.:Psychic
+Hyperspace Hole:5:80:101:Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using a move such as Protect or Detect.:Psychic
+Hypnosis:20:--:60:The user employs hypnotic suggestion to make the target fall into a deep sleep.:Psychic
+Imprison:10:--:101:If opposing Pokémon know any move also known by the user, they are prevented from using it.:Psychic
+Instruct:15:--:101:The user instructs the target to use the target's last move again.:Psychic
+Kinesis:15:--:80:The user distracts the target by bending a spoon. This lowers the target\â€™s accuracy.:Psychic
+Light Screen:30:--:101:A wondrous wall of light is put up to reduce damage from special attacks for five turns.:Psychic
+Light That Burns the Sky:1:200:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Lunar Dance:10:--:101:The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.:Psychic
+Luster Purge:5:70:100:The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat.:Psychic
+Magic Coat:15:--:101:Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves.:Psychic
+Magic Powder:20:--:100:The user scatters a cloud of magic powder that changes the target to Psychic type.:Psychic
+Magic Room:10:--:101:The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.:Psychic
+Max Mindstorm:10:--:101:This is a Psychic-type attack Dynamax Pokémon use. The user turns the ground into Psychic Terrain for five turns.:Psychic
+Meditate:40:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Miracle Eye:40:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Mirror Coat:20:--:100:A retaliation move that counters any special attack, inflicting double the damage taken.:Psychic
+Mist Ball:5:70:100:A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat.:Psychic
+Photon Geyser:5:100:100:The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.:Psychic
+Power Split:10:--:101:The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.:Psychic
+Power Swap:10:--:101:The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.:Psychic
+Power Trick:10:--:101:The user employs its psychic power to switch its Attack stat with its Defense stat.:Psychic
+Prismatic Laser:10:160:100:The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.:Psychic
+Psybeam:20:65:100:The target is attacked with a peculiar ray. This may also leave the target confused.:Psychic
+Psychic:10:90:100:The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.:Psychic
+Psychic Fangs:10:85:100:The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.:Psychic
+Psychic Terrain:10:--:101:This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.:Psychic
+Psycho Boost:5:140:90:The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.:Psychic
+Psycho Cut:20:70:100:The user tears at the target with blades formed by psychic power. Critical hits land more easily.:Psychic
+Psycho Shift:10:--:100:Using its psychic power of suggestion, the user transfers its status conditions to the target.:Psychic
+Psyshock:10:80:100:The user materializes an odd psychic wave to attack the target. This attack does physical damage.:Psychic
+Psystrike:10:100:100:The user materializes an odd psychic wave to attack the target. This attack does physical damage.:Psychic
+Psywave:15:--:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Reflect:20:--:101:A wondrous wall of light is put up to reduce damage from physical attacks for five turns.:Psychic
+Rest:10:--:101:The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.:Psychic
+Role Play:10:--:101:The user mimics the target completely, copying the target's Ability.:Psychic
+Shattered Psyche:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Shattered Psyche:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Skill Swap:10:--:101:The user employs its psychic power to exchange Abilities with the target.:Psychic
+Speed Swap:10:--:101:The user exchanges Speed stats with the target.:Psychic
+Stored Power:10:20:100:The user attacks the target with stored power. The more the user's stats are raised, the greater the move's power.:Psychic
+Synchronoise:10:120:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Telekinesis:15:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Psychic
+Teleport:20:--:101:The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.:Psychic
+Trick:10:--:100:The user catches the target off guard and swaps its held item with its own.:Psychic
+Trick Room:5:--:101:The user creates a bizarre area in which slower Pokémon get to move first for five turns.:Psychic
+Wonder Room:10:--:101:The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.:Psychic
+Zen Headbutt:15:80:90:The user focuses its willpower to its head and attacks the target. This may also make the target flinch.:Psychic
+Accelerock:20:40:100:The user smashes into the target at high speed. This move always goes first.:Rock
+Ancient Power:5:60:100:The user attacks with a prehistoric power. This may also raise all the user's stats at once.:Rock
+Continental Crush:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Rock
+Continental Crush:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Rock
+Diamond Storm:5:100:95:The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user's Defense stat.:Rock
+G-Max Volcalith:10:--:101:A Rock-type attack that Gigantamax Coalossal use. This move continues to deal damage to opponents for four turns.:Rock
+Head Smash:5:150:80:The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.:Rock
+Max Rockfall:10:--:101:This is a Rock-type attack Dynamax Pokémon use. The user summons a sandstorm lasting five turns.:Rock
+Meteor Beam:10:120:90:In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.:Rock
+Power Gem:20:80:100:The user attacks with a ray of light that sparkles as if it were made of gemstones.:Rock
+Rock Blast:10:25:90:The user hurls hard rocks at the target. Two to five rocks are launched in a row.:Rock
+Rock Polish:20:--:101:The user polishes its body to reduce drag. This sharply raises the Speed stat.:Rock
+Rock Slide:10:75:90:Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.:Rock
+Rock Throw:15:50:90:The user picks up and throws a small rock at the target to attack.:Rock
+Rock Tomb:15:60:95:Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement.:Rock
+Rock Wrecker:5:150:90:The user launches a huge boulder at the target to attack. The user can't move on the next turn.:Rock
+Rollout:20:30:90:The user continually rolls into the target over five turns. It becomes more powerful each time it hits.:Rock
+Sandstorm:10:--:101:A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.:Rock
+Smack Down:15:50:100:The user throws a stone or similar projectile to attack the target. A flying Pokémon will fall to the ground when it's hit.:Rock
+Splintered Stormshards:1:190:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Rock
+Stealth Rock:20:--:101:The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.:Rock
+Stone Edge:5:100:80:The user stabs the target from below with sharpened stones. Critical hits land more easily.:Rock
+Tar Shot:15:--:100:The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves.:Rock
+Wide Guard:10:--:101:The user and its allies are protected from wide-ranging attacks for one turn.:Rock
+Anchor Shot:20:80:100:The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.:Steel
+Autotomize:15:--:101:The user sheds part of its body to make itself lighter and sharply raise its Speed stat.:Steel
+Behemoth Bash:5:100:100:The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed.:Steel
+Behemoth Blade:5:100:100:The user becomes a gigantic sword and cuts the target. This move deals twice the damage if the target is Dynamaxed.:Steel
+Bullet Punch:30:40:100:The user strikes the target with tough punches as fast as bullets. This move always goes first.:Steel
+Corkscrew Crash:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Steel
+Corkscrew Crash:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Steel
+Doom Desire:5:140:100:Two turns after this move is used, a concentrated bundle of light blasts the target.:Steel
+Double Iron Bash:5:60:100:The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This may also make the target flinch.:Steel
+Flash Cannon:10:80:100:The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat.:Steel
+G-Max Meltdown:10:--:101:A Steel-type attack that Gigantamax Melmetal use. This move makes opponents incapable of using the same move twice in a row.:Steel
+G-Max Steelsurge:10:--:101:A Steel-type attack that Gigantamax Copperajah use. This move scatters sharp spikes around the field.:Steel
+Gear Grind:15:50:85:The user attacks by throwing steel gears at its target twice.:Steel
+Gear Up:20:--:101:The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.:Steel
+Gyro Ball:5:--:100:The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move's power.:Steel
+Heavy Slam:10:--:100:The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.:Steel
+Iron Defense:15:--:101:The user hardens its body's surface like iron, sharply raising its Defense stat.:Steel
+Iron Head:15:80:100:The user slams the target with its steel-hard head. This may also make the target flinch.:Steel
+Iron Tail:15:100:75:The target is slammed with a steel-hard tail. This may also lower the target's Defense stat.:Steel
+King's Shield:10:--:101:The user takes a defensive stance while it protects itself from damage. It also lowers the Attack stat of any attacker that makes direct contact.:Steel
+Magnet Bomb:20:60:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Steel
+Max Steelspike:10:--:101:This is a Steel-type attack Dynamax Pokémon use. This raises ally Pokémon's Defense stats.:Steel
+Metal Burst:10:--:100:The user retaliates with much greater force against the opponent that last inflicted damage on it.:Steel
+Metal Claw:35:50:95:The target is raked with steel claws. This may also raise the user's Attack stat.:Steel
+Metal Sound:40:--:85:A horrible sound like scraping metal harshly lowers the target's Sp. Def stat.:Steel
+Meteor Mash:10:90:90:The target is hit with a hard punch fired like a meteor. This may also raise the user's Attack stat.:Steel
+Mirror Shot:10:65:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Steel
+Searing Sunraze Smash:1:200:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Steel
+Shift Gear:10:--:101:The user rotates its gears, raising its Attack stat and sharply raising its Speed stat.:Steel
+Smart Strike:10:70:101:The user stabs the target with a sharp horn. This attack never misses.:Steel
+Steel Beam:5:140:95:The user fires a beam of steel that it collected from its entire body. This also damages the user.:Steel
+Steel Roller:5:130:100:The user attacks while destroying the terrain. This move fails when the ground hasn't turned into a terrain.:Steel
+Steel Wing:25:70:90:The target is hit with wings of steel. This may also raise the user's Defense stat.:Steel
+Sunsteel Strike:5:100:100:The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities.:Steel
+Aqua Jet:20:40:100:The user lunges at the target at a speed that makes it almost invisible. This move always goes first.:Water
+Aqua Ring:20:--:101:The user envelops itself in a veil made of water. It regains some HP every turn.:Water
+Aqua Tail:10:90:90:The user attacks by swinging its tail as if it were a vicious wave in a raging storm.:Water
+Bouncy Bubble:20:60:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Brine:10:65:100:If the target's HP is half or less, this attack will hit with double the power.:Water
+Bubble:30:40:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Bubble Beam:20:65:100:A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat.:Water
+Clamp:15:35:85:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Crabhammer:10:100:90:The target is hammered with a large pincer. Critical hits land more easily.:Water
+Dive:10:80:100:Diving on the first turn, the user floats up and attacks on the next turn.:Water
+Fishious Rend:10:85:100:The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled.:Water
+Flip Turn:20:60:100:After making its attack, the user rushes back to switch places with a party Pokémon in waiting.:Water
+G-Max Cannonade:10:--:101:A Water-type attack that Gigantamax Blastoise use. This move continues to deal damage to opponents for four turns.:Water
+G-Max Foam Burst:10:--:101:A Water-type attack that Gigantamax Kingler use. This move harshly lowers the Speed of opponents.:Water
+G-Max Hydrosnipe:10:--:101:A Water-type attack that Gigantamax Inteleon use. This move can be used on the target regardless of its Abilities.:Water
+G-Max Rapid Flow:10:--:101:A Water-type attack that Gigantamax Urshifu use. This rapid-strike move can ignore Max Guard.:Water
+G-Max Stonesurge:10:--:101:A Water-type attack that Gigantamax Drednaw use. This move scatters sharp rocks around the field.:Water
+Hydro Cannon:5:150:90:The target is hit with a watery blast. The user can't move on the next turn.:Water
+Hydro Pump:5:110:80:The target is blasted by a huge volume of water launched under great pressure.:Water
+Hydro Vortex:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Hydro Vortex:1:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Life Dew:10:--:101:The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.:Water
+Liquidation:10:85:100:The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.:Water
+Max Geyser:10:--:101:This is a Water-type attack Dynamax Pokémon use. The user summons a heavy rain that falls for five turns.:Water
+Muddy Water:10:90:85:The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.:Water
+Oceanic Operetta:1:195:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Octazooka:10:65:85:The user attacks by spraying ink in the target's face or eyes. This may also lower the target's accuracy.:Water
+Origin Pulse:10:110:85:The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.:Water
+Rain Dance:5:--:101:The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.:Water
+Razor Shell:10:75:95:The user cuts its target with sharp shells. This may also lower the target's Defense stat.:Water
+Scald:15:80:100:The user shoots boiling hot water at its target. This may also leave the target with a burn.:Water
+Snipe Shot:15:80:100:The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.:Water
+Soak:20:--:100:The user shoots a torrent of water at the target and changes the target's type to Water.:Water
+Sparkling Aria:10:90:100:The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles.:Water
+Splishy Splash:15:90:100:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Steam Eruption:5:110:95:The user immerses the target in superheated steam. This may also leave the target with a burn.:Water
+Surf:15:90:100:The user attacks everything around it by swamping its surroundings with a giant wave.:Water
+Surging Strikes:5:25:100:The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This attack always results in a critical hit.:Water
+Water Gun:25:40:100:The target is blasted with a forceful shot of water.:Water
+Water Pledge:10:80:100:A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears.:Water
+Water Pulse:20:60:100:The user attacks the target with a pulsing blast of water. This may also confuse the target.:Water
+Water Shuriken:20:15:100:The user hits the target with throwing stars two to five times in a row. This move always goes first.:Water
+Water Sport:15:--:101:This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.:Water
+Water Spout:5:150:100:The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power.:Water
+Waterfall:15:80:100:The user charges at the target and may make it flinch.:Water
+Whirlpool:15:35:85:The user traps the target in a violent swirling whirlpool for four to five turns.:Water
+Withdraw:40:--:101:The user withdraws its body into its hard shell, raising its Defense stat.:Water

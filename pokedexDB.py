@@ -74,6 +74,28 @@ def insert_types(row):
     id = cursor.lastrowid
 
 
+def insert_moves(row):
+    # input name,abilities1,abilities2,abilities3,hp,att,def,S-att,S-def,spd,no
+    query = "INSERT INTO moves(name,type,category,PP,power,accuracy,description)" \
+            "VALUES(%s,%s,%s,%s,%s,%s,%s)"
+    if row[2] == '--':
+        row[2] = None
+    if row[3] == '--':
+        row[3] = None
+    args = (row[0], row[5], None, row[1], row[2], row[3], row[4])
+
+    try:
+        db_config = read_db_config()
+        conn = MySQLConnection(**db_config)
+
+        cursor = conn.cursor()
+        cursor.execute(query, args)
+
+        conn.commit()
+    except Error as error:
+        print(error)
+
+
 def main():
     with open('webscraping/pokedex_missingTypes.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -90,6 +112,19 @@ def types():
             insert_types(row)
 
 
+def moves():
+    with open('webscraping/moves.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=':')
+        next(csv_reader)
+        for row in csv_reader:
+            insert_moves(row)
+
+
 if __name__ == '__main__':
+
+    # main function adds pokedex_missingTypes.csv to pokemon table
     # main()
-    types()
+    # types function adds types.csv to pokemon table
+    # types()
+    # moves function adds moves.csv to moves table
+    moves()
