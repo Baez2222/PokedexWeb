@@ -3,7 +3,7 @@ from python_mysql_dbconfig import read_db_config
 import csv
 
 
-# populate pokedex database
+# populate pokemon table
 def insert_pokemon(row):
     # input name,abilities1,abilities2,abilities3,hp,att,def,S-att,S-def,spd,no
     query = "INSERT INTO pokemon(pokeID,name,primaryType,secondaryType,description,ability1,ability2,ability3,hp,attack,defense,sp_attack,sp_defense,speed,region)" \

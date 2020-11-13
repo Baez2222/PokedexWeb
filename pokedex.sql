@@ -55,23 +55,15 @@ PRIMARY KEY (`name`)
 -- Move Table
 DROP TABLE IF EXISTS `moves`;
 CREATE TABLE `moves`(
-`name` VARCHAR(20) NOT NULL,
+`name` VARCHAR(30) NOT NULL,
 `type` VARCHAR(10) NOT NULL,
-`category` VARCHAR(10) NOT NULL,
+`category` VARCHAR(10),
 `PP` INT NOT NULL,
-`power` INT NOT NULL,
-`accuracy` INT NOT NULL,
-`description` VARCHAR(100) NOT NULL,
-PRIMARY KEY (`name`),
-FOREIGN KEY (`type`) REFERENCES `moveTypes` (`name`) ON DELETE CASCADE ON UPDATE CASCADE
-);
-
--- Abilities Table
-DROP TABLE IF EXISTS `abilities`;
-CREATE TABLE `abilities`(
-`name` VARCHAR(20) NOT NULL,
-`description` VARCHAR(100) NOT NULL,
-PRIMARY KEY (`name`)
+`power` INT,
+`accuracy` INT,
+`description` VARCHAR(200) NOT NULL,
+PRIMARY KEY (`name`)/*,
+FOREIGN KEY (`type`) REFERENCES `moveTypes` (`name`) ON DELETE CASCADE ON UPDATE CASCADE*/
 );
 
 -- Regions Table
@@ -120,3 +112,5 @@ FOREIGN KEY (`pokeID`) REFERENCES `pokemon` (`pokeID`)
 SELECT *
 FROM pokemon;
 
+SELECT *
+FROM moves;
