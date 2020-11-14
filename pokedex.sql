@@ -2,55 +2,53 @@ DROP DATABASE IF EXISTS `Pokedex`;
 CREATE DATABASE `Pokedex`;
 USE `Pokedex`;
 
--- Pokemon Type Table
+-- Types Table
 DROP TABLE IF EXISTS `pokemonTypes`;
 CREATE TABLE `pokemonTypes`(
 `name` VARCHAR(10) NOT NULL,
-`dmg_from_normal` VARCHAR(10),
-`dmg_from_water` VARCHAR(10),
-`dmg_from_electric` VARCHAR(10),
-`dmg_from_fighting` VARCHAR(10),
-`dmg_from_ground` VARCHAR(10),
-`dmg_from_psychic` VARCHAR(10),
-`dmg_from_rock` VARCHAR(10),
-`dmg_from_dark` VARCHAR(10),
-`dmg_from_steel` VARCHAR(10),
-`dmg_from_fire` VARCHAR(10),
-`dmg_from_grass` VARCHAR(10),
-`dmg_from_ice` VARCHAR(10),
-`dmg_from_poison` VARCHAR(10),
-`dmg_from_flying` VARCHAR(10),
-`dmg_from_bug` VARCHAR(10),
-`dmg_from_ghost` VARCHAR(10),
-`dmg_from_dragon` VARCHAR(10),
-`dmg_from_fairy` VARCHAR(10),
+`normal` FLOAT,
+`fire` FLOAT,
+`water` FLOAT,
+`electric` FLOAT,
+`grass` FLOAT,
+`ice` FLOAT,
+`fighting` FLOAT,
+`poison` FLOAT,
+`ground` FLOAT,
+`flying` FLOAT,
+`psychic` FLOAT,
+`bug` FLOAT,
+`rock` FLOAT,
+`ghost` FLOAT,
+`dragon` FLOAT,
+`dark` FLOAT,
+`steel` FLOAT,
+`fairy` FLOAT,
+`ID` INT,
 PRIMARY KEY (`name`)
 );
 
--- Move Types Table
-DROP TABLE IF EXISTS `moveTypes`;
-CREATE TABLE `moveTypes`(
-`name` VARCHAR(10) NOT NULL,
-`dmg_to_normal` VARCHAR(10),
-`dmg_to_water` VARCHAR(10),
-`dmg_to_electric` VARCHAR(10),
-`dmg_to_fighting` VARCHAR(10),
-`dmg_to_ground` VARCHAR(10),
-`dmg_to_psychic` VARCHAR(10),
-`dmg_to_rock` VARCHAR(10),
-`dmg_to_dark` VARCHAR(10),
-`dmg_to_steel` VARCHAR(10),
-`dmg_to_fire` VARCHAR(10),
-`dmg_to_grass` VARCHAR(10),
-`dmg_to_ice` VARCHAR(10),
-`dmg_to_poison` VARCHAR(10),
-`dmg_to_flying` VARCHAR(10),
-`dmg_to_bug` VARCHAR(10),
-`dmg_to_ghost` VARCHAR(10),
-`dmg_to_dragon` VARCHAR(10),
-`dmg_to_fairy` VARCHAR(10),
-PRIMARY KEY (`name`)
-);
+insert  into `pokemonTypes` (`name`, `normal`, `fire`, `water`, `electric`, `grass`, `ice`, `fighting`, `poison`, `ground`, `flying`, `psychic`, `bug`, `rock`, `ghost`, `dragon`, `dark`, `steel`, `fairy`, `ID`)
+ values('normal', 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, .5, 0, 1, 1, .5, 1, 1),
+('fire', 1, .5, .5, 1, 2, 2, 1, 1, 1, 1, 1, 2, .5, 1, .5, 1, 2, 1, 2) ,
+('water', 1, 2, .5, 1, .5, 1, 1, 1, 2, 1, 1, 1, 2, 1, .5, 1, 1, 1, 3),
+('electric', 1, 1, 2, .5, .5, 1, 1, 1, 0, 2, 1, 1, 1, 1, .5, 1, 1, 1, 4),
+('grass', 1, .5, 2, 1, .5, 1, 1, .5, 2, .5, 1, .5, 2, 1, .5, 1, .5, 1, 5),
+('ice', 1, .5, .5, 1, 2, .5, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, .5, 1, 6),
+('fighting', 2, 1, 1, 1, 1, 2, 1, .5, 1, .5, .5, .5, 2, 0, 1, 2, 2, .5, 7),
+('poison', 1, 1, 1, 1, 2, 1, 1, .5, .5, 1, 1, 1, .5, .5, 1, 1, 0, 2, 8),
+('ground',1, 2, 1, 2, .5, 1, 1, 2, 1, 0, 1, .5, 2, 1, 1, 1, 2, 1, 9),
+('flying', 1, 1, 1, .5, 2, 1, 2, 1, 1, 1, 1, 2, .5, 1, 1, 1, .5, 1, 10),
+('psychic',1, 1, 1, 1, 1, 1, 2, 2, 1, 1, .5, 1, 1, 1, 1, 0, .5, 1, 11),
+('bug', 1, .5, 1, 1, 2, 1, .5, .5, 1, .5, 2, 1, 1, .5, 1, 2, .5, .5, 12),
+('rock', 1, 2, 1, 1, 1, 2, .5, 1, .5, 2, 1, 2, 1, 1, 1, 1, .5, 1, 13),
+('ghost', 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, .5, 1, 1, 14),
+('dragon', 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, .5, 0, 15),
+('dark', 1, 1, 1, 1, 1, 1, .5, 1, 1, 1, 2, 1, 1, 2, 1, .5, 1, .5, 16),
+('steel', 1, .5, .5, .5, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, .5, 2, 17),
+('fairy', 1, .5, 1, 1, 1, 1, 2, .5, 1, 1, 1, 1, 1, 1, 2, 2, .5, 1, 18);
+
+
 
 -- Move Table
 DROP TABLE IF EXISTS `moves`;
@@ -66,13 +64,6 @@ PRIMARY KEY (`name`)/*,
 FOREIGN KEY (`type`) REFERENCES `moveTypes` (`name`) ON DELETE CASCADE ON UPDATE CASCADE*/
 );
 
--- Regions Table
-DROP TABLE IF EXISTS `regions`;
-CREATE TABLE `regions`(
-`name` VARCHAR(10) NOT NULL,
-`description` VARCHAR(100) NOT NULL,
-PRIMARY KEY (`name`)
-);
 
 -- Pokemon Table
 DROP TABLE IF EXISTS `pokemon`;
@@ -110,7 +101,19 @@ FOREIGN KEY (`pokeID`) REFERENCES `pokemon` (`pokeID`)
 
 
 SELECT *
-FROM pokemon;
+FROM pokemon p WHERE p.name = "Bulbasaur";
+
+SELECT *
+FROM pokemon p WHERE p.primaryType = "Grass" OR p.secondaryType = "Grass";
+
+SELECT *
+FROM pokemonTypes pt WHERE pt.name = "Normal";
+
+SELECT pt.normal
+FROM pokemonTypes pt;
+
+SELECT *
+FROM pokemonTypes pt ORDER BY pt.ID;
 
 SELECT *
 FROM moves;
