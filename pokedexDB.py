@@ -148,10 +148,10 @@ def movesCat():
 if __name__ == '__main__':
 
     # main function adds pokedex_missingTypes.csv to pokemon table
-    # main()
+    main()
     # types function adds types.csv to pokemon table
-    # types()
+    types()
     # moves function adds moves.csv to moves table
-    # moves()
+    moves()
     # movesCat function adds movesCategory.csv to moves table (updates category attr)
     movesCat()
