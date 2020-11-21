@@ -59,21 +59,20 @@ missingPoke = ['Weedle', 'Kakuna', 'Beedrill', 'Pidgey', 'Pidgeotto', 'Pidgeot',
  'Crabominable', 'Oricorio', 'Minior', 'Komala', 'Bruxish', 'Nidoran♀', 'Nidoran♂']
 
 def secondPass():
-    with open("pokeMoveSets.csv", "a+", encoding='utf-8') as csv_reader:
-        for pokemon in missingPoke:
-            URL = 'https://pokemondb.net/pokedex/%s/moves/7' % pokemon
-            print(URL)
-            page = requests.get(URL)
-            soup = BeautifulSoup(page.content, 'html.parser')
+    for pokemon in missingPoke:
+        URL = 'https://pokemondb.net/pokedex/%s/moves/7' % pokemon
+        print(URL)
+        page = requests.get(URL)
+        soup = BeautifulSoup(page.content, 'html.parser')
 
-            content = soup.find(id='main')
-            data = content.find_all('td', {'class': 'cell-name'})
+        content = soup.find(id='main')
+        data = content.find_all('td', {'class': 'cell-name'})
 
-            with open("pokemonMoveSets.csv", "a+", newline='', encoding='utf-8') as output:
-                if len(data) == 0:
-                    print(pokemon + ' is missing!!!!!!!!!')
-                for row in data:
-                    output.writelines(pokemon + ',' + row.text.strip() + '\n')
+        with open("pokemonMoveSets.csv", "a+", newline='', encoding='utf-8') as output:
+            if len(data) == 0:
+                print(pokemon + ' is missing!!!!!!!!!')
+            for row in data:
+                output.writelines(pokemon + ',' + row.text.strip() + '\n')
 
 if __name__ == '__main__':
     pass
