@@ -113,6 +113,24 @@ def insert_movesCat(row):
         print(error)
 
 
+def insert_moveSets(row):
+    query = "INSERT INTO pokemonMovesets(pokeID,moveName)" \
+            "VALUES(%s,%s)"
+    args = (row[0], row[2])
+    print(row[0])
+
+    try:
+        db_config = read_db_config()
+        conn = MySQLConnection(**db_config)
+
+        cursor = conn.cursor()
+        cursor.execute(query, args)
+
+        conn.commit()
+    except Error as error:
+        print(error)
+
+
 def main():
     with open('webscraping/pokedex_missingTypes.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -144,14 +162,23 @@ def movesCat():
         for row in csv_reader:
             insert_movesCat(row)
 
+def moveSets():
+    with open('webscraping/pokemonMoveSets.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        next(csv_reader)
+        for row in csv_reader:
+            insert_moveSets(row)
+
 
 if __name__ == '__main__':
 
     # main function adds pokedex_missingTypes.csv to pokemon table
-    main()
+    #main()
     # types function adds types.csv to pokemon table
-    types()
+    #types()
     # moves function adds moves.csv to moves table
-    moves()
+    #moves()
     # movesCat function adds movesCategory.csv to moves table (updates category attr)
-    movesCat()
+    #movesCat()
+    # moveSets function adds pokeMoveSets.csv to pokemonMoveSets table
+    moveSets()
