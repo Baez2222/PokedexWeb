@@ -8,4 +8,4 @@ To populate database:
 
 - go to the very bottom of pokedexDB.py. Uncomment the functions being called in *if __name__ == '__main__':*
 
-- run pokedexDB.py and hopefully it will populate the database
+- run pokedexDB.py
