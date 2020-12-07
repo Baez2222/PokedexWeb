@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div>
+        Pokedex:
+        <a href="{{ url_for('core.index') }}">Home</a>
+        {% if current_user.is_anonymous %}
+        <a href="{{ url_for('core.login') }}">Login</a>
+        {% else %}
+        <a href="{{ url_for('core.logout') }}">Logout</a>
+        {% endif %}
+        <a href="{{ url_for('core.myteam') }}">My Team</a>
+        <a href="{{ url_for('core.moves') }}">Move Sets</a>
+    </div>
+
+{% block content %}{% endblock %}
+</body>
+</html>

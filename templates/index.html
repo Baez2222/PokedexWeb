@@ -1,0 +1,252 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!-- {% for message in get_flashed_messages() %}
+    <h1>You Search for '{{ message }}'</h1>
+{% endfor %} -->
+<h1> Search </h1>
+<a href="{{ url_for('core.index') }}">REFRESH</a>
+<form action="" method="post">
+  {{ form.hidden_tag() }}
+  {{ nameForm.hidden_tag() }}
+
+  {{ nameForm.pokemonName.label}}
+  {{ nameForm.pokemonName() }}
+  {{ nameForm.submit() }}
+
+  {{ form.pokePrimType.label}}
+  {{ form.pokePrimType()}}
+  
+  {{ form.pokeSecType.label}}
+  {{ form.pokeSecType()}}
+
+  {{form.pokeAtk.label}}
+  {{form.pokeAtk()}}
+
+  {{form.pokeDef.label}}
+  {{form.pokeDef()}}
+
+  {{form.pokeSpd.label}}
+  {{form.pokeSpd()}}
+
+  {{ form.pokeSpAtk.label}}
+  {{ form.pokeSpAtk()}}
+
+  {{ form.pokeSpDef.label}}
+  {{ form.pokeSpDef()}}
+
+  {{ form.pokeHP.label}}
+  {{ form.pokeHP()}}
+
+  {{ form.submit() }}
+</form>
+{% if pokemonName %}
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Primary Type</th>
+    <th>Secondary Type</th>
+    <th>Ability1 </th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Attack </th>
+    <th>Defense </th>
+    <th>Speed </th>
+    <th>Sp-Attack </th>
+    <th>Sp-Defense </th>
+    <th>HP </th>
+    <th>Region </th>
+  </tr>
+  {% for p in pokemonName %}
+    <tr>
+      <td>{{ p.pokeID }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.primaryType }}</td>
+      <td>{{ p.secondaryType }}</td>
+      <td>{{ p.ability1 }}</td>
+      <td>{{ p.ability2 }}</td>
+      <td>{{ p.ability3 }}</td>
+      <td>{{ p.attack }}</td>
+      <td>{{ p.defense }}</td>
+      <td>{{ p.speed }}</td>
+      <td>{{ p.sp_attack }}</td>
+      <td>{{ p.sp_defense }}</td>
+      <td>{{ p.hp }}</td>
+      <td>{{ p.region }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endif %}
+
+
+{% if pokePrimType %}
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Primary Type</th>
+    <th>Secondary Type</th>
+    <th>Ability1 </th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Attack </th>
+    <th>Defense </th>
+    <th>Speed </th>
+    <th>Sp-Attack </th>
+    <th>Sp-Defense </th>
+    <th>HP </th>
+    <th>Region </th>
+  </tr>
+  {% for p in pokePrimType %}
+    <tr>
+      <td>{{ p.pokeID }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.primaryType }}</td>
+      <td>{{ p.secondaryType }}</td>
+      <td>{{ p.ability1 }}</td>
+      <td>{{ p.ability2 }}</td>
+      <td>{{ p.ability3 }}</td>
+      <td>{{ p.attack }}</td>
+      <td>{{ p.defense }}</td>
+      <td>{{ p.speed }}</td>
+      <td>{{ p.sp_attack }}</td>
+      <td>{{ p.sp_defense }}</td>
+      <td>{{ p.hp }}</td>
+      <td>{{ p.region }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endif %}
+
+
+{% if pokeSecType %}
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Primary Type</th>
+    <th>Secondary Type</th>
+    <th>Ability1 </th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Attack </th>
+    <th>Defense </th>
+    <th>Speed </th>
+    <th>Sp-Attack </th>
+    <th>Sp-Defense </th>
+    <th>HP </th>
+    <th>Region </th>
+  </tr>
+  {% for p in pokeSecType %}
+    <tr>
+      <td>{{ p.pokeID }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.primaryType }}</td>
+      <td>{{ p.secondaryType }}</td>
+      <td>{{ p.ability1 }}</td>
+      <td>{{ p.ability2 }}</td>
+      <td>{{ p.ability3 }}</td>
+      <td>{{ p.attack }}</td>
+      <td>{{ p.defense }}</td>
+      <td>{{ p.speed }}</td>
+      <td>{{ p.sp_attack }}</td>
+      <td>{{ p.sp_defense }}</td>
+      <td>{{ p.hp }}</td>
+      <td>{{ p.region }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endif %}
+
+{% if pokeBothType %}
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Primary Type</th>
+    <th>Secondary Type</th>
+    <th>Ability1 </th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Attack </th>
+    <th>Defense </th>
+    <th>Speed </th>
+    <th>Sp-Attack </th>
+    <th>Sp-Defense </th>
+    <th>HP </th>
+    <th>Region </th>
+  </tr>
+  {% for p in pokeBothType %}
+    <tr>
+      <td>{{ p.pokeID }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.primaryType }}</td>
+      <td>{{ p.secondaryType }}</td>
+      <td>{{ p.ability1 }}</td>
+      <td>{{ p.ability2 }}</td>
+      <td>{{ p.ability3 }}</td>
+      <td>{{ p.attack }}</td>
+      <td>{{ p.defense }}</td>
+      <td>{{ p.speed }}</td>
+      <td>{{ p.sp_attack }}</td>
+      <td>{{ p.sp_defense }}</td>
+      <td>{{ p.hp }}</td>
+      <td>{{ p.region }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endif %}
+
+
+{% if pokeNoType %}
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Primary Type</th>
+    <th>Secondary Type</th>
+    <th>Ability1 </th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Attack </th>
+    <th>Defense </th>
+    <th>Speed </th>
+    <th>Sp-Attack </th>
+    <th>Sp-Defense </th>
+    <th>HP </th>
+    <th>Region </th>
+  </tr>
+  {% for p in pokeNoType %}
+    <tr>
+      <td>{{ p.pokeID }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.primaryType }}</td>
+      <td>{{ p.secondaryType }}</td>
+      <td>{{ p.ability1 }}</td>
+      <td>{{ p.ability2 }}</td>
+      <td>{{ p.ability3 }}</td>
+      <td>{{ p.attack }}</td>
+      <td>{{ p.defense }}</td>
+      <td>{{ p.speed }}</td>
+      <td>{{ p.sp_attack }}</td>
+      <td>{{ p.sp_defense }}</td>
+      <td>{{ p.hp }}</td>
+      <td>{{ p.region }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endif %}
+
+{% endblock %}
