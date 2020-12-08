@@ -16,4 +16,4 @@ To populate database:
 
     - import pokedexDump.sql file into your database
 
-Flask App is contained within pokedexFlask folder. I live version is hosted on hbaez.oxycreates.org/pokedex
+Flask App is contained within pokedexFlask folder. A live version is hosted on hbaez.oxycreates.org/pokedex
