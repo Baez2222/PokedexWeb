@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<form action="" method="post">
+    {{ form.hidden_tag() }}
+    <p>
+        {{ form.pokemon1.label}}
+        {{ form.pokemon1()}}
+    </p>
+    <p>
+        {{ form.pokemon2.label}}
+        {{ form.pokemon2()}}
+    </p>
+    <p>
+        {{ form.pokemon3.label}}
+        {{ form.pokemon3()}}
+    </p>
+    <p>
+        {{ form.pokemon4.label}}
+        {{ form.pokemon4()}}
+    </p>
+    <p>
+        {{ form.pokemon5.label}}
+        {{ form.pokemon5()}}
+    </p>
+    <p>
+        {{ form.pokemon6.label}}
+        {{ form.pokemon6()}}
+    </p>
+    {{ form.submit() }}
+</form>
+{% endblock %}

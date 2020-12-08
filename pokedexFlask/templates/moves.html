@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Moves</h1>
+<form action="" method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.pokemon.label }}
+    {{ form.pokemon() }}
+    {{ form.submit() }}
+</form>
+    
+
+    {% if pokemon %}
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Category</th>
+            <th>PP</th>
+            <th>Power</th>
+            <th>Accuracy</th>
+            <th>Description</th>
+        </tr>
+        {% for m in pokemon %}
+            <tr>
+                <td>{{m.name}}</td>
+                <td>{{m.type}}</td>
+                <td>{{m.category}}</td>
+                <td>{{m.pp}}</td>
+                <td>{{m.power}}</td>
+                <td>{{m.accuracy}}</td>
+                <td>{{m.description}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+{% endblock %}

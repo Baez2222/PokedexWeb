@@ -1,5 +1,5 @@
 from mysql.connector import MySQLConnection, Error
-from python_mysql_dbconfig import read_db_config
+from webscraping.python_mysql_dbconfig import read_db_config
 import csv
 
 
@@ -132,7 +132,7 @@ def insert_moveSets(row):
 
 
 def main():
-    with open('webscraping/pokedex_missingTypes.csv') as csv_file:
+    with open('pokedex_missingTypes.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
@@ -140,7 +140,7 @@ def main():
 
 
 def types():
-    with open('webscraping/types.csv') as csv_file:
+    with open('types.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
@@ -148,7 +148,7 @@ def types():
 
 
 def moves():
-    with open('webscraping/moves.csv') as csv_file:
+    with open('moves.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=':')
         next(csv_reader)
         for row in csv_reader:
@@ -156,14 +156,14 @@ def moves():
 
 
 def movesCat():
-    with open('webscraping/movesCategory.csv') as csv_file:
+    with open('movesCategory.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
             insert_movesCat(row)
 
 def moveSets():
-    with open('webscraping/pokemonMoveSets.csv') as csv_file:
+    with open('pokemonMoveSets.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
@@ -171,14 +171,14 @@ def moveSets():
 
 
 if __name__ == '__main__':
-
-    # main function adds pokedex_missingTypes.csv to pokemon table
-    #main()
-    # types function adds types.csv to pokemon table
-    #types()
+    pass
     # moves function adds moves.csv to moves table
-    #moves()
+    # moves()
     # movesCat function adds movesCategory.csv to moves table (updates category attr)
-    #movesCat()
+    # movesCat()
+    # main function adds pokedex_missingTypes.csv to pokemon table
+    # main()
+    # types function adds types.csv to pokemon table
+    # types()
     # moveSets function adds pokeMoveSets.csv to pokemonMoveSets table
-    moveSets()
+    # moveSets()

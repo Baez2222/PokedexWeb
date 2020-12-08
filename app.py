@@ -1,9 +1,8 @@
-import os
-from flask import Flask, render_template, request, flash
+from flask import Flask
 from flask_login import LoginManager
-from .extensions import db
-from .views import bp as core
-from .models import User
+from pokedexFlask.extensions import db
+from pokedexFlask.views import bp as core
+from pokedexFlask.models import User
 
 from config import Config
 
