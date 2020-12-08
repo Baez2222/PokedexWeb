@@ -1,6 +1,7 @@
 # PokedexWeb
 
 To populate database:
+
 Webscraping Method:
 
 - copy pokedex.sql file into your server and run the necessary tables
