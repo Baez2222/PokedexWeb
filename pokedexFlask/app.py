@@ -6,7 +6,7 @@ import pymysql
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret-key'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://hbaezoxy_hbaez:Tlr_zOZrfpkB@159.65.99.145/hbaezoxy_pokedex'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://[user]:[pass]@[host]/[db]'
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
